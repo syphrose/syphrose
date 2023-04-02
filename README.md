@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syphrose Wabulwenyi.
 - 👀 I’m interested in coding, watching movies, cooking and roadtrips to unwind. 
-- 🌱 I’m currently learning software engineering at Moringa School.
+- 🌱 I’m currently learning software engineering at ALX Africa.
 - 💞️ I’m looking forward to;(a) collaborate on developing and testing software to meet the client's needs.
 -                           (b) develop upgrades for existing applications.
 -                           (c) document all work concerning software for future reference.
