@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Syphrose Wabulwenyi</h1>
-<h3 align="center">A passionate Software Engineering Student from Kenya</h3>
+<h3 align="center">A passionate Software Engineer from Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribble.com/users1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syphrose&label=Profile%20views&color=0e75b6&style=flat" alt="syphrose" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_syphrose" target="blank"><img src="https://img.shields.io/twitter/follow/_syphrose?logo=twitter&style=for-the-badge" alt="_syphrose" /></a> </p>
 
-- 🔭 I’m currently working on **an AirBnB project**
+- 🔭 I’m currently working on **an ELPI project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **JavaScript, CSS and HTML**
 
